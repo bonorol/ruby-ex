@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to my chu application!!</h1>
+            <h1>Welcome to my chuchuuuu application!!</h1>
           </hgroup>
 
 
